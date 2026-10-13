@@ -1,4 +1,4 @@
-# social-proxy-robot
+# Social-Proxy-Robot
 Overview
 An expressive social proxy robot developed to investigate social presence and remote participation in hybrid learning environments.
 Key Features
